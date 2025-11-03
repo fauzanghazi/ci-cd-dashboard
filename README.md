@@ -23,8 +23,9 @@ It automatically validates code, removes duplicate rows from a dataset, and prov
   - Pytest ensures data integrity (no duplicates after processing).
 
 ---
-## 🗄️ Structure
+## 🧱 Structure
 
+```text
 ci-cd-dashboard/
 │
 ├── .github/
@@ -45,3 +46,4 @@ ci-cd-dashboard/
 │
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
+
